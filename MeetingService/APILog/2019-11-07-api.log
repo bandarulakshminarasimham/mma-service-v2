@@ -1,0 +1,171 @@
+2019-11-07 09:43:28.4869|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 09:44:11.2162|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 09:48:40.4116|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 09:53:44.2088|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:24:48.0542|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:26:55.9247|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:27:05.8614|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:34:25.2099|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:34:38.3119|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:39:45.1982|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:45:58.7389|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:46:11.9894|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:51:49.0533|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:51:57.6649|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 10:55:27.4567|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 11:00:12.4918|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 11:03:03.1104|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 11:03:07.2197|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Required property 'MDateTime' not found in JSON. Path '', line 8, position 2.
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic bGFrc2htaTpiYW5kYXJ1"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["004d52a4-356f-4841-b6b5-0089064cc759"]}]]}
+
+2019-11-07 11:20:08.2281|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(-62135596800000)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 11:20:08.3422|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Required property 'MDateTime' not found in JSON. Path '', line 8, position 2.
+Action Parameters : {"messageFormat":"JSON","messageArguments":[[{"Key":"Cache-Control","Value":["no-cache"]},{"Key":"Connection","Value":["keep-alive"]},{"Key":"Accept","Value":["*/*"]},{"Key":"Accept-Encoding","Value":["gzip","deflate"]},{"Key":"Authorization","Value":["Basic bGFrc2htaTpiYW5kYXJ1"]},{"Key":"Host","Value":["localhost:57421"]},{"Key":"User-Agent","Value":["PostmanRuntime/7.19.0"]},{"Key":"Postman-Token","Value":["86af46ab-0405-40ee-b1fb-2b26e99e9986"]}]]}
+
+2019-11-07 11:22:09.7936|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(1573105929479)\/","Status":null,"Meeting_Attendees_Map":null}}]}
+
+2019-11-07 11:24:03.1129|INFO|MeetingService.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:57421/api/meeting
+Basic bGFrc2htaTpiYW5kYXJ1
+Controller : MeetingService.Controllers.MeetingController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"model":{"MeetingId":0,"Subject":"Meeting schedule with team","Agenda":"Meeting schedule with team","MDateTime":"\/Date(1573106042763)\/","Status":null,"Attendees":[1,2],"Meeting_Attendees_Map":null}}]}
+

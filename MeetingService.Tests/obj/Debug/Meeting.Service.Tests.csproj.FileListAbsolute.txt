@@ -1,0 +1,1 @@
+D:\meeting-app\meeting-service-v3\Meeting.Service\Meeting.Service.Tests\obj\Debug\Meeting.Service.Tests.csprojResolveAssemblyReference.cache
